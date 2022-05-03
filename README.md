@@ -1,3 +1,6 @@
+# MOVED
+Project Moved to [HERE](https://github.com/future93/7D2DmodLocalCHS)
+
 # bhw-Encyclopedia-CHS
 Simplified Chinese translation for the mod *Better Homes and Worlds - Encyclopedia* of the game *7 days to die*.
 
